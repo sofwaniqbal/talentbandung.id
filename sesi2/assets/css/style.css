@@ -1,0 +1,61 @@
+html{
+  height: 100%;
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body{
+  margin: 0;
+  padding-bottom: 6rem;
+  min-height: 100%;
+}
+
+.site-content{
+  text-align: center;
+  margin: 0 auto;
+  width: 100%;
+}
+
+.subtitle{
+  font-family:'Caveat', cursive;
+  display: block;
+}
+
+.title{
+  text-align: center;
+  font-family: 'Playfair Display', serif;
+}
+a{
+	text-decoration: none;
+}
+
+.daftar-taman{
+	margin:100px 100px 100px 100px;
+
+}
+
+.taman{
+  margin: 5px;
+  float: left;
+  position: relative;
+
+}
+.taman-detail{
+	text-align: center;
+}
+
+.footer{
+
+  position: initial;
+  bottom: 0;
+  display: inline-flex;
+
+}
+
+
+
