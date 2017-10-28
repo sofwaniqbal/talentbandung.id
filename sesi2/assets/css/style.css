@@ -45,6 +45,9 @@ a{
   position: relative;
 
 }
+.taman:hover {
+  background-color: red;
+}
 .taman-detail{
 	text-align: center;
 }
